@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca3dda8e-ebc9-42a4-bd8b-6a4843a956c7" name="Default Changelist" comment="">
+    <list default="true" id="ca3dda8e-ebc9-42a4-bd8b-6a4843a956c7" name="Default Changelist" comment="added sockets.io to make app realtime">
+      <change afterPath="$USER_HOME$/git@github.com:Cpreston3/chat-app/server.js" afterDir="false" />
       <change beforePath="$USER_HOME$/git@github.com:Cpreston3/chat-app/ index.html" beforeDir="false" afterPath="$USER_HOME$/git@github.com:Cpreston3/chat-app/ index.html" afterDir="false" />
       <change beforePath="$USER_HOME$/git@github.com:Cpreston3/chat-app/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/git@github.com:Cpreston3/chat-app/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/git@github.com:Cpreston3/chat-app/package-lock.json" beforeDir="false" afterPath="$USER_HOME$/git@github.com:Cpreston3/chat-app/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +41,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603301566514</updated>
-      <workItem from="1603301567584" duration="2888000" />
+      <workItem from="1603301567584" duration="6416000" />
     </task>
+    <task id="LOCAL-00001" summary="added sockets.io to make app realtime">
+      <created>1603309544396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603309544397</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added sockets.io to make app realtime" />
+    <option name="LAST_COMMIT_MESSAGE" value="added sockets.io to make app realtime" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2419" y="412" width="281" height="207" key="Github.ShareDialog" timestamp="1603302750672">
@@ -57,6 +69,14 @@
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
     <state x="2305" y="188" width="499" height="654" key="Github.UntrackedFilesDialog/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603302779276" />
+    <state x="2155" y="248" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603309554196">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2155" y="248" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603309554196" />
+    <state x="2343" y="426" width="433" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603309602768">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2343" y="426" width="433" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053/1920.0.1280.1024@1920.0.1280.1024" timestamp="1603309602768" />
     <state x="2224" y="231" key="run.anything.popup" timestamp="1603309203544">
       <screen x="1920" y="0" width="1280" height="1024" />
     </state>
